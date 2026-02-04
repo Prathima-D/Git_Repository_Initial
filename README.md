@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prathima Dileep
-- 👀 I’m interested in DataScience Projects
+- 👀 This is my first GitHub repository. Would like to try by creating a simple project in python.
 - 📫 How to reach me Prathima.Dileep@gmail.com
 
 <!---
